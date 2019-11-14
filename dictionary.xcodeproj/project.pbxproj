@@ -18,9 +18,11 @@
 		CF367FC42356B411008B9A49 /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF367FC32356B411008B9A49 /* FilterView.swift */; };
 		CF367FC62356B427008B9A49 /* FilterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF367FC52356B427008B9A49 /* FilterView.xib */; };
 		CF367FC82356DA4F008B9A49 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF367FC72356DA4F008B9A49 /* Word.swift */; };
+		CF7EEEFF2366B29F001B23B0 /* Item2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7EEEFE2366B29F001B23B0 /* Item2ViewController.swift */; };
 		CF7FC2152357067000A97436 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7FC2142357067000A97436 /* Data.swift */; };
 		CF7FC2172357089D00A97436 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = CF7FC216235706D000A97436 /* words.json */; };
 		CF7FC223235821D100A97436 /* ListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7FC222235821D100A97436 /* ListViewCell.swift */; };
+		CFBC35FD2362922600703B6D /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBC35FC2362922600703B6D /* PageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +41,11 @@
 		CF367FC32356B411008B9A49 /* FilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
 		CF367FC52356B427008B9A49 /* FilterView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FilterView.xib; sourceTree = "<group>"; };
 		CF367FC72356DA4F008B9A49 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		CF7EEEFE2366B29F001B23B0 /* Item2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item2ViewController.swift; sourceTree = "<group>"; };
 		CF7FC2142357067000A97436 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		CF7FC216235706D000A97436 /* words.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = words.json; sourceTree = "<group>"; };
 		CF7FC222235821D100A97436 /* ListViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewCell.swift; sourceTree = "<group>"; };
+		CFBC35FC2362922600703B6D /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				CF367FC32356B411008B9A49 /* FilterView.swift */,
 				CF367FC52356B427008B9A49 /* FilterView.xib */,
 				CF7FC222235821D100A97436 /* ListViewCell.swift */,
+				CFBC35FC2362922600703B6D /* PageViewController.swift */,
+				CF7EEEFE2366B29F001B23B0 /* Item2ViewController.swift */,
 			);
 			path = dictionary;
 			sourceTree = "<group>";
@@ -249,9 +255,11 @@
 				CF367FA42356AAF7008B9A49 /* AppDelegate.swift in Sources */,
 				CF367FA62356AAF7008B9A49 /* SceneDelegate.swift in Sources */,
 				CF367FBC2356AF35008B9A49 /* ListViewController.swift in Sources */,
+				CFBC35FD2362922600703B6D /* PageViewController.swift in Sources */,
 				CF7FC223235821D100A97436 /* ListViewCell.swift in Sources */,
 				CF367FC42356B411008B9A49 /* FilterView.swift in Sources */,
 				CF367FBE2356AF4B008B9A49 /* FlashCardViewController.swift in Sources */,
+				CF7EEEFF2366B29F001B23B0 /* Item2ViewController.swift in Sources */,
 				CF367FC82356DA4F008B9A49 /* Word.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
